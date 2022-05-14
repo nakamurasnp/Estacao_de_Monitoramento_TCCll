@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este repositório contém o material utilizado para construção de uma estação de monitoramento,tendo como finalidade a criação de um projeto de conclusão de curso, requisitos necessário para obtenção do título de Bacharel de Sistemas de Informação. 
+Este repositório contém o material utilizado para construção de uma estação de monitoramento, tendo como finalidade a criação de um projeto de conclusão de curso, requisitos necessário para obtenção do título de Bacharel de Sistemas de Informação. 
 
 ## Informações Gerais
 
