@@ -10,5 +10,5 @@ Para a construção e implementação do código utilizou-se da plataforma IDE d
 
 * CameraServer.ino - Nesse campo é possível estar constatando na integra o código implementado na estação de monitoramento.
 * libraries.rar - Aqui é possível estar baixando as bibliotecas utilizadas.
-* 
-Os resultados do acompanhamento da pela estação de monitoramento como as imagens e os dados coletados, podem ser observados através do endereço eletrônico: https://bityli.com/Estacao-de-Monitoramento.
+
+Os resultados do acompanhamento da estação de monitoramento como as imagens e os dados coletados, podem ser observados através do endereço eletrônico: https://bityli.com/Estacao-de-Monitoramento.
