@@ -1,4 +1,4 @@
-# Estação De Coleta De Dados Para Auxiliar No Monitoramento Dos Estágios Vegetativos Da Planta #
+# Estação de Coleta de Dados para Auxiliar no Monitoramento dos Estágios Vegetativos da Planta #
 
 ## Introdução
 
